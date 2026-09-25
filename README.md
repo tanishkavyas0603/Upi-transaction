@@ -183,4 +183,5 @@ upi-transaction-intelligence/
 ```
 
 ---
-*Portfolio project by [Your Name] | Data Analyst | Synthetic dataset*
+Portfolio project by Tanishka Vyas
+
