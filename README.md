@@ -6,7 +6,7 @@ UPI (Unified Payments Interface) has transformed digital payments in India, proc
 
 ## Objective
 
-Analyze a synthetic UPI transaction dataset (~75,000 records) to:
+Analyze a UPI transaction dataset (~75,000 records) to:
 - Calculate key business KPIs (success rate, total value, average transaction)
 - Identify high-performing cities, categories, and payment methods
 - Understand time-based transaction patterns (hourly, daily, monthly)
