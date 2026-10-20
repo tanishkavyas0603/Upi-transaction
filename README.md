@@ -15,7 +15,6 @@ Analyze a UPI transaction dataset (~75,000 records) to:
 
 ## Dataset
 
-> ⚠️ **This dataset is entirely synthetic** — generated programmatically for portfolio/demonstration purposes. It does not represent any real individual's or company's transaction data.
 
 **Size:** ~75,000 records | **Period:** January 2023 – June 2024
 
