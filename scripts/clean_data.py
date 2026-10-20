@@ -17,7 +17,9 @@ Steps performed:
 """
 
 import pandas as pd
-import numpy as np
+import sys
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8")
 import os
 
 RAW_PATH   = os.path.join(os.path.dirname(__file__), "..", "data", "raw",       "upi_transactions_raw.csv")
